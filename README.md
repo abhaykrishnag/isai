@@ -1,6 +1,6 @@
-# Isai - Personal Music Locker
+# Isai - abhaykrishnag
 
-A secure, single-user music player using Google Drive.
+A secure, single-user music player for abhaykrishnag using Google Drive.
 
 ## Setup Instructions
 
